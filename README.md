@@ -14,3 +14,7 @@ wget https://raw.githubusercontent.com/osmanyz/yii1-valet-driver/master/Yii1Vale
 valet link app-name
 http://app-name.test
 ```
+
+### yii2-valet-driver
+
+[github.com/chinaphp/yii2-valet-driver](https://github.com/chinaphp/yii2-valet-driver)
